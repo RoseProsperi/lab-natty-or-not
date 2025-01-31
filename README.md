@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desvendando a Resolução ICVM 175
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, D-ID STUDIO, Visage Lab
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Realizei vários prompts no chatGPT e consegui um texto que achei coerente. Editei uma foto minha com o visage lab e inseri no D-iD Studio. Segui os passos e criei o avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+fiz o avatar descrevendo a resolucão ICVM 175.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+a opção gratuita do D-iD é muito limitada e não abre no computador da Caixa. Na verdade, quase link algum abriu.
 ```
 
 ### Exemplos e Insigths
